@@ -1,0 +1,15 @@
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/bin/Debug/net7.0/куб
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/bin/Debug/net7.0/куб.deps.json
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/bin/Debug/net7.0/куб.runtimeconfig.json
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/bin/Debug/net7.0/куб.dll
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/bin/Debug/net7.0/куб.pdb
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.csproj.AssemblyReference.cache
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.AssemblyInfoInputs.cache
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.AssemblyInfo.cs
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.csproj.CoreCompileInputs.cache
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.dll
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/refint/куб.dll
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.pdb
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/куб.genruntimeconfig.cache
+/Users/darinafesenko/Desktop/курс/домашка 3/куб/obj/Debug/net7.0/ref/куб.dll
